@@ -1,12 +1,25 @@
-# 👋 Hi, I’m Syed Abdul Qayyum  
+<h1 align="center">👋 Hi, I’m Syed Abdul Qayyum</h1>  
 
-💻 **Frontend Developer | 🎨 UI/UX Designer | ⚙️ Automation Enthusiast**  
+<p align="center">
+✨ I develop modern & responsive <b>web applications</b> ✨ <br/>
+📱 I craft user-friendly <b>UI/UX designs</b> ✨ <br/>
+⚡ I build <b>automation workflows</b> with AI & integrations ✨
+</p>  
+
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | ⚙️ Automation Enthusiast</h3>  
+
+
+
+---
+
+## ✨ About Me  
 
 I’m passionate about building **modern, responsive web applications** and designing **intuitive digital experiences**.  
 From creating clean **UI/UX prototypes in Figma** to coding **scalable solutions in React, Vite, and Tailwind CSS**,  
 I love turning ideas into **functional, elegant, and impactful products**.  
 
 ---
+
 
 ## 🚀 What I Do
 - ⚡ Frontend Development → React, Vite, TypeScript, Tailwind CSS, Bootstrap  
