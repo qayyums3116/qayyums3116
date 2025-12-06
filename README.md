@@ -53,12 +53,6 @@ I love turning ideas into **functional, elegant, and impactful products**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qayyums3116&layout=compact&theme=radical)
-
----
-
 ## 🌍 Connect With Me  
 
 📩 **Email:** aq65837@gmail.com  
