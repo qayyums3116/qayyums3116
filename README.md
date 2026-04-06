@@ -1,40 +1,47 @@
-<h1 align="center">👋 Hi, I’m Syed Abdul Qayyum</h1>  
+<h1 align="center">👋 Hi, I'm Syed Abdul Qayyum</h1>
 
 <p align="center">
-✨ I develop modern & responsive <b>web applications</b> ✨ <br/>
-📱 I craft intuitive <b>UI/UX designs</b> ✨ <br/>
-🤖 I work with <b>AI, LLMs, and automation workflows</b> to enhance applications ✨
-</p>  
+🚀 I build scalable & responsive <b>Full Stack Web Applications</b> ✨ <br/>
+🎨 I craft intuitive <b>UI/UX experiences</b> from Figma to production-ready code ✨ <br/>
+⚙️ I design intelligent <b>Automation Workflows</b> using n8n & Make.com ✨ <br/>
+🤖 I integrate <b>AI, LLMs & Generative AI</b> into real-world applications ✨
+</p>
 
-<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | ⚙️ AI & Automation Enthusiast</h3>  
+<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Designer | ⚙️ AI Automation Enthusiast</h3>
 
 ---
 
-## ✨ About Me  
+## ✨ About Me
 
-I’m passionate about building **modern, responsive web applications** and designing **intuitive digital experiences**.  
-From creating clean **UI/UX prototypes in Figma** to coding **scalable solutions in React, Next.js, Vite, and Tailwind CSS**,  
-I enjoy turning ideas into **functional, elegant, and impactful products**.  
+I'm a **Full Stack Developer, UI/UX Designer, and AI Automation Enthusiast** with 2+ years of professional experience building modern, scalable web applications and designing user-centric digital experiences.
 
-Additionally, I have hands-on experience working on **AI and LLM-based projects**, including **data annotation, prompt engineering, and AI workflow optimization**, bridging the gap between software development and applied artificial intelligence.
+I don't just write code — I take ideas from **Figma wireframes and prototypes** all the way to **pixel-perfect, production-ready interfaces** using React.js, Next.js, and Tailwind CSS. On the backend, I build robust APIs with **Django, FastAPI, and NestJS**, backed by **PostgreSQL** databases.
+
+What sets me apart is my passion for **automation**. I build intelligent workflows using **n8n and Make.com** that connect APIs, eliminate repetitive tasks, and significantly boost productivity. I've even taught these skills — I delivered a full **AI Automation course at Concordia College, Lahore**.
+
+I've also worked with **Turing Enterprises Inc.** on AI-driven projects involving **LLM integration, prompt engineering, and Generative AI**, bridging the gap between development and applied artificial intelligence.
 
 ---
 
 ## 🚀 What I Do
-- ⚡ **Frontend Development** → React, Next.js, Vite, TypeScript, Tailwind CSS, Bootstrap  
-- 🎨 **UI/UX Design** → Figma, Adobe XD  
-- 🤖 **AI & Automation** → LLM integration, Prompt Engineering, n8n, API workflows  
-- 🌐 **Backend & Programming** → Node.js, Python, C++  
+
+- 💻 **Full Stack Development** → React.js, Next.js, TypeScript, Django, FastAPI, NestJS, PostgreSQL
+- 🎨 **UI/UX Design** → Figma, Adobe XD, Wireframing, Prototyping, Responsive Design
+- ⚙️ **AI Automation** → n8n, Make.com, Workflow Design, API Automation, Process Optimization
+- 🤖 **AI & LLM Integration** → Prompt Engineering, LangChain, OpenAI APIs, Generative AI
+- 🌐 **Frontend** → Vite, Tailwind CSS, Shadcn/UI, Material UI, Bootstrap, HTML5, CSS3
+- 🔧 **Tools & DevOps** → Git, GitHub, Postman, Vercel, Netlify, pgAdmin, Docker basics
 
 ---
 
-## 🛠️ Technologies I Work With  
+## 🛠️ Technologies I Work With
+
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,typescript,javascript,html,css,tailwind,bootstrap" />
   <br/>
-  <!-- Backend & AI -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,openai" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,python,postgres,cpp" />
   <br/>
   <!-- Design & Tools -->
   <img src="https://skillicons.dev/icons?i=figma,xd,git,github,postman,vercel,netlify" />
@@ -42,25 +49,43 @@ Additionally, I have hands-on experience working on **AI and LLM-based projects*
 
 ---
 
+## 💼 Work Experience Highlights
+
+🏢 **Junior Full Stack Developer & UI/UX Designer** — CodeSquad.AI *(Jan 2025 – Present)*
+> Building full-stack applications, designing UI/UX in Figma, and deploying automation workflows with n8n & Make.com
+
+🤖 **AI Automation Enthusiast & LLM Integration Trainee** — Turing Enterprises, Inc. *(Dec 2025 – Feb 2026)*
+> Integrating LLMs into development workflows, prompt engineering, and AI-driven automation pipelines
+
+⚙️ **AI Automation Instructor** — Concordia College, Lahore *(Jul 2025 – Sep 2025)*
+> Taught n8n automation, Make.com workflows, and AI tools to students preparing for digital careers
+
+🎓 **BSc in Information Engineering Technology** — Superior University, Lahore *(GPA: 3.42 / 4.0)*
+
+---
+
 ## 📌 Featured Projects
-- 🩺 **Kenetics** → Remote therapeutic monitoring web app  
-- 💳 **Meade Rewards** → Fintech landing page & mobile app UI  
-- 🦷 **Frontline Dental** → AI-powered dental platform  
-- ⚙️ **JobVizion Dashboard** → AI-driven recruitment automation with n8n  
+
+- 🩺 **Kenetics** → Remote therapeutic monitoring web app
+- 💳 **Meade Rewards** → Fintech landing page & mobile app UI
+- 🦷 **Frontline Dental** → AI-powered dental platform
+- ⚙️ **JobVizion Dashboard** → AI-driven recruitment automation with n8n
 
 👉 [Explore all my projects](https://github.com/qayyums3116?tab=repositories)
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 
-📩 **Email:** aq65837@gmail.com  
+📩 **Email:** aq653837@gmail.com
 
-🔗 **Social Links**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-abdul-qayyum/)  
-- 📸 [Instagram](https://www.instagram.com/abdul_qayyum_3116/)  
-- 🌐 [Portfolio](https://abdul-qayyum-portfolio.netlify.app/)  
-- 🖼️ [Facebook](https://www.facebook.com/profile.php?id=100084147759219)  
+🌐 **Portfolio:** [abdul-qayyum-portfolio.netlify.app](https://abdul-qayyum-portfolio.netlify.app/)
+
+🔗 **Social Links**
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-abdul-qayyum/)
+- 📸 [Instagram](https://www.instagram.com/abdul_qayyum_3116/)
+- 🖼️ [Facebook](https://www.facebook.com/profile.php?id=100084147759219)
 
 ---
-✨ *Always learning. Always building. Always designing. Always exploring AI.*  
+
+✨ *Always building. Always designing. Always automating. Always learning.*
